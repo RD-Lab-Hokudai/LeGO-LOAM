@@ -83,7 +83,7 @@ extern const bool useCloudRing = false;
 // extern const float ang_bottom = 25.0;
 // extern const int groundScanInd = 10;
 
-// Ouster users may need to uncomment line 159 in imageProjection.cpp
+// Ouster users need to uncomment line 177 in imageProjection.cpp
 // Usage of Ouster imu data is not fully supported yet (LeGO-LOAM needs 9-DOF IMU), please just publish point cloud data
 // Ouster OS1-16
 // extern const int N_SCAN = 16;
